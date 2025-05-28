@@ -58,4 +58,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Pedro Amorim](https://github.com/amorim01332)
